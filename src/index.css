@@ -1,0 +1,33 @@
+body{
+    background-color: darkcyan;
+    font-family: sans-serif;
+}
+#email{
+    width:300px;
+}
+#pwd{
+    width:300px;
+}
+#login{
+     background-color:green;
+     height: 400px;
+     margin-top: 80px;
+     margin-right: 300px;
+     margin-left: 300px;
+     padding-left: 100px;
+    padding-top:50px;
+    font-weight: bold;
+    border-radius:15px;
+}
+#login h1 {
+     padding-left:100px;
+}
+header{
+    display: block;
+    text-align: center;
+    }
+#reg{
+
+    font-family: sans-serif;
+    background-color: crimson;
+}
